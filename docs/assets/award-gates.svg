@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="55" viewBox="0 0 250 55" role="img" aria-label="Six Gates, No Mercy: every fixture, every gate. Self-awarded parody, not a real award.">
+<rect x="1" y="1" width="248" height="53" rx="9" fill="#08110a" stroke="#7acc12" stroke-width="2"/>
+<circle cx="28" cy="27.5" r="15" fill="#7acc12"/><path d="M28 17l3 6.6 7.2.8-5.4 4.8 1.5 7.1-6.3-3.6-6.3 3.6 1.5-7.1-5.4-4.8 7.2-.8z" fill="#08110a"/>
+<text x="52" y="17" font-family="Menlo,Consolas,monospace" font-size="8.5" fill="#8fbf88">SELF-AWARDED · NOT REAL</text>
+<text x="52" y="32" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f2fff0">Six Gates, No Mercy</text>
+<text x="52" y="46" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#7acc12">every fixture, every gate</text>
+</svg>
