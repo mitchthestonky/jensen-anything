@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.png" width="160" height="160" alt="ANSI art of Jensen in a black leather jacket with glowing green laser eyes on a lime background">
+  <img src="docs/assets/jensen-ansi.png" width="400" height="400" alt="ANSI art of Jensen in a black leather jacket with glowing green laser eyes on a lime background">
 </p>
 
 <h1 align="center">jensen-anything</h1>
